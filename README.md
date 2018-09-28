@@ -31,6 +31,4 @@ Thanks and If you have any suggestions for me or just want to contact me for any
 
 [Linkedin](https://www.linkedin.com/in/hemantgarg6/)
 
-[Github](https://github.com/hemant-garg/) 
-
 [Facebook](https://www.facebook.com/hemantgarg6)
