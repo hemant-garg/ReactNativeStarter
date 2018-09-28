@@ -26,9 +26,14 @@ Checkout this repo by either downloading the .zip file or you can use git comman
 
 ..
 
+ or you  can  use :
+ 
+`react-native init <Project Name> --version 0.55.4`
+
 
 Thanks and If you have any suggestions for me or just want to contact me for any reason. Ping me anytime
 
 [Linkedin](https://www.linkedin.com/in/hemantgarg6/)
 
 [Facebook](https://www.facebook.com/hemantgarg6)
+ 
