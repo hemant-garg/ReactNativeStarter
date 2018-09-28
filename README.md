@@ -23,3 +23,11 @@ Checkout this repo by either downloading the .zip file or you can use git comman
  
   **Note: Before executing the last command, Please be ensure that your android/ios simulator is running or any physical device is connected with your laptop**
 
+
+**Thanks and If you have any suggestions for me or just want to contact me for any reason. Ping me anytime**
+
+[Linkedin](https://www.linkedin.com/in/hemantgarg6/)
+
+[Github](https://github.com/hemant-garg/) 
+
+[Facebook](https://www.facebook.com/hemantgarg6)
