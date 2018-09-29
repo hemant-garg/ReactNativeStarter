@@ -1,6 +1,6 @@
 # ReactNativeStarter
 
-**It is the Starter boilerplate for your next React Native project**
+**It is the Starter boilerplate for your next React Native project with redux flow**
 
 if you directly go the documentation of react native, you'll face many hurdles in your path to just setup the whole environment.
 
